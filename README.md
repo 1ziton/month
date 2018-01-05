@@ -2,7 +2,7 @@
 
 1ziton前端月报，目的为学习交流，提高内部团队技术成长和加强技术分享氛围，受 `JavaScript高级前端开发群` [jsfront/month](https://github.com/jsfront/month)的月报所启发。
 
-内容以`年费/月份`的目录形式发布
+内容以`年份/月份`的目录形式发布
 
 
 ## 提交原则

@@ -1,0 +1,21 @@
+[1mdiff --git a/2018/201801.md b/2018/201801.md[m
+[1mindex 5501eb8..46ae89c 100644[m
+[1m--- a/2018/201801.md[m
+[1m+++ b/2018/201801.md[m
+[36m@@ -13,7 +13,7 @@[m
+ [m
+ ## 技术分享交流[m
+ [m
+[31m-- HTTPS揭秘（原理+实践证书配置）[@SubinY](https://github.com/SubinY)[m
+[32m+[m[32m- HTTPS揭秘（原理+实践证书配置）[@SubinY](https://github.com/SubinY), [粗略用了一下PPT](http://www.ipresst.com/w/jzxbia)[m
+ - 学习怎么使用FormBuilder和对表单进行校验。[博客](https://blog.thoughtram.io/angular/2016/06/22/model-driven-forms-in-angular-2.html)，我的[DEMO](https://stackblitz.com/edit/angular-xun5yf?file=app%2Fapp.component.html)@梁宗凯[m
+ [m
+ ## 资源（工作技术栈）[m
+[36m@@ -103,6 +103,7 @@[m
+ - [T-shaped people ](https://collegeinfogeek.com/become-t-shaped-person/)[m
+ - [E-shaped people](https://www.leadingagile.com/2017/02/e-shaped-staff/)[m
+ [m
+[32m+[m[32m- [web在线PPT制作](http://www.ipresst.com/)[m
+ [m
+ [m
+ - [在做程序员的道路上，你掌握了什么概念或技术使你感觉自我提升突飞猛进？](https://www.zhihu.com/question/68611994)[m

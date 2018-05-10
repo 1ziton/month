@@ -56,3 +56,9 @@
 ## 代码版本工具
 
 ## [git](./git.md)
+
+
+## 资源
+
+- [程序员技能图谱](https://github.com/TeamStuQ/skill-map)
+- [前端手册](https://github.com/giscafer/front-end-manual)
